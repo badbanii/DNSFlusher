@@ -1,5 +1,5 @@
-<h1 align="center">Advanced Reboot</h1>
-<h3 align="center">Advanced reboot options for rooted Android devices. Reboot/recovery/download mode/fastboot<br/>Implementation details:</h3>
+<h1 align="center">DNSFlusher</h1>
+<h3 align="center">Flush your DNS on your Androi device.<br/>Implementation details:</h3>
 
 - 🪛 Java
 
