@@ -1,5 +1,5 @@
 <h1 align="center">DNSFlusher</h1>
-<h3 align="center">Flush your DNS on your Androi device.<br/>Implementation details:</h3>
+<h3 align="center">Flush your DNS on your Android device.<br/>Implementation details:</h3>
 
 - 🪛 Java
 
